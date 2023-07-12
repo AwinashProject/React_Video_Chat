@@ -1,10 +1,4 @@
-![Screenshot (49)](https://github.com/AwinashProject/React_Video_Chat/assets/87895218/fce90e02-5224-4aa8-9eec-7cb0985e8f9d)
-
-
-![Screenshot (50)](https://github.com/AwinashProject/React_Video_Chat/assets/87895218/dd22abd8-9568-4d06-bdd9-111a8dc5694e)
-
-
-![Screenshot (47)](https://github.com/AwinashProject/React_Video_Chat/assets/87895218/520708fe-4ef4-43b2-bbc2-0110725861f7)
-
-
-![Screenshot (48)](https://github.com/AwinashProject/React_Video_Chat/assets/87895218/af29fbe0-5265-4894-a332-192ae0abba22)
+![Screenshot (49)](https://github.com/AwinashProject/React_Video_Chat/assets/87895218/64e03baf-fc09-4ed6-8511-4328a9b697c2)
+![Screenshot (50)](https://github.com/AwinashProject/React_Video_Chat/assets/87895218/68c79290-20fb-41fe-a1b1-1d054c8007a1)
+![Screenshot (47)](https://github.com/AwinashProject/React_Video_Chat/assets/87895218/3f1b9e8b-434b-43e7-b362-eacac7c99834)
+![Screenshot (48)](https://github.com/AwinashProject/React_Video_Chat/assets/87895218/c4c9f73a-4fb1-4998-98c4-a5db03bbd810)
